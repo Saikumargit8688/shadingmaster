@@ -13,7 +13,7 @@ import { IndoorshadingComponent } from './indoorshading/indoorshading.component'
 
 const routes: Routes = [
   {
-    path:"dashboard",
+    path:"",
     component:DashboardComponent
   },
   {
