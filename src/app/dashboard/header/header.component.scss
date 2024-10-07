@@ -1,0 +1,15 @@
+.header{
+    justify-content: space-evenly;
+    display: flex;
+    padding-top: 80px;
+}
+.header a{
+    text-decoration: none;
+    font-family: Roboto, sans-serif;
+    font-size: 17px;
+    color: #0e0d0d;
+    
+}
+.header :hover{
+    color: rgb(219, 54, 117);
+}
